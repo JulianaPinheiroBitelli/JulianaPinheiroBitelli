@@ -1,7 +1,7 @@
 ### Olá, Seja bem vindo 👋
 
 - 👩🏼 Juliana Pinheiro
-- 📚 Sistemas de Informação
+- 📚 Análise e desenvolvimento de sistemas
 - 🚀 Desenvolvedora iOS
 
 <div align="left">
